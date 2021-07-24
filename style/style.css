@@ -8,3 +8,54 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
 }
+
+body {
+    text-align: center;
+    background-color: #0D1117;
+    color: white;
+}
+
+h1 {
+    margin: 50px 0;
+}
+
+h2 {
+    margin-bottom: 40px;
+}
+
+h3, p {
+    margin-bottom: 25px;
+}
+
+p {
+    margin: 10px 50px;
+}
+
+img {
+    width: 700px;
+    margin-bottom: 40px;
+    border: 5px solid rgb(251, 251, 251);
+}
+
+h2 {
+    font-size: 30px;
+}
+
+footer {
+    margin-top: 20px;
+}
+
+span {
+    color: yellow;
+}
+
+button {
+    width: 200px;
+    height: 40px;
+    background-color: yellow;
+    color: black;
+    margin: 20px;
+    font-size: 25px;
+    border-radius: 10px;
+    cursor: pointer;
+}
